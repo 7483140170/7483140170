@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @7483140170
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-7483140170/7483140170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Veeresh V Kanakalamath
+- 👀 I’m interested in Ethical Hacking,Web Development
+- 🌱 I’m currently learning Information science engineering
+- 📫 How to reach me  its here https://www.linkedin.com/in/veeresh-v-50a194211
